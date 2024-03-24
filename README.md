@@ -2,6 +2,7 @@ This project is about the Traveling Salesman Problem:
 
 The problem : 
 We play the roles of a voyager that has to visit the most interessting touristic places in 3 weeks and come back home.
+
 Goal : find the optimal path, to visit the optimal places, regardless of the starting point
 Trajectory Score : 
 - 1 Unesco site visited = 10 points 
